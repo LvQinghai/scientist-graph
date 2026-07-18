@@ -35,4 +35,4 @@ echo "  按 Ctrl+C 停止服务"
 echo "============================================"
 echo ""
 
-python3 main.py
+python3 app.py
